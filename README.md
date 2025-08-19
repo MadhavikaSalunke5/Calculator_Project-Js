@@ -1,4 +1,4 @@
-# Modern Calculator
+# Calculator
 
 A stylish, responsive calculator built with **HTML**, **CSS**, and **JavaScript**.  
 It performs basic arithmetic operations and has a modern, user-friendly interface.
